@@ -17,3 +17,5 @@ class Cperson
 		static Cperson * Getobject();
 		static void Destory(Cperson * p);
 }
+
+Cperson * p1 = NULL;
