@@ -15,7 +15,6 @@ class Cperson
 		static pthread_mutex_t lock;
 	public:
 		static Cperson * Getobject();
-		static void Destory(Cperson * p);
 }
 
 Cperson * p1 = NULL;
