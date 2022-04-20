@@ -9,6 +9,8 @@
 
 ##### 五级标题
 
+
+
 # 正文
 
 测试正文概要<br>
@@ -43,6 +45,7 @@
 >>> 三级引用
 
 
+
 # 列表
 
 ##### \* 修饰无序列表
@@ -59,7 +62,7 @@
     * 内存共享映射
     * Signal
 
-----
+--------------------------------
 
 ##### 数字编号修饰有序列表
 1. 计算机科学
@@ -73,6 +76,8 @@
    * 滑雪
    * 攀岩
 
+
+
 # 表格
 
 ##### 表格效果
@@ -83,3 +88,46 @@
 英雄萨姆|98|24
 Apex|198|7
 
+
+
+# 代码
+
+##### 在文档中插入代码片段
+
+```c
+#include <stdio.h>
+#include <unistd.h>
+
+int main(void)
+{
+	printf("C..\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main(void)
+{
+	cout << "C++" << endl;
+}
+```
+
+```python
+import os
+
+def main();
+	loop = asyncio.get_event_loop()
+if __name == '__main__';
+	main()
+```
+
+```bash
+	netstate -apn | Grep
+	od -ctx files
+	touch textfile
+```
