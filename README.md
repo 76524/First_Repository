@@ -143,4 +143,4 @@ if __name == '__main__';
 
 # 插入图片
 
-![截图](https://pan.baidu.com/s/10JFBjjeMkEcnnBNzduxYkg?pwd=0908 "点击图片")
+![截图](https://thumbnail0.baidupcs.com/thumbnail/937d35ea3i462f1914d1a83ea6436af4?fid=1103622713870-250528-636340450243253&time=1650456000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-DH2o4qLOYC8AANX6upGFRW7JeRs%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=242285344813216936&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video "点击图片")
